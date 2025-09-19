@@ -11,7 +11,6 @@ In my past job as a cashier I created a simple but useful app in form of a websi
 - CSS
 - Java Script
 ## Code example
-
 Code from one of my projects:
 
 ```
