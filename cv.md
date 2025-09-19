@@ -1,6 +1,6 @@
-#Daniel Bielecki#
+# Daniel Bieleck #
 ---
-##Junior Frontend Developer##
+## Junior Frontend Developer ##
 ---
-##Contact details:##
-**Email:** bieleckidaniel35@gmail.com
+## Contact details: ##
+** Email: ** bieleckidaniel35@gmail.com
