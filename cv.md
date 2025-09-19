@@ -2,7 +2,6 @@
 ## Junior Frontend Developer
 ## Contact details:
 **Email:** bieleckidaniel35@gmail.com
----
 ## About myself
 Hello, I am a beginner Frontend Developer from Warsaw, Poland. In programming, I like the intellectual challenges it brings - it's like a puzzle to be solved. Besides Frontend I am an amateur cyclist and I also like hiking.
 ## My goals
@@ -34,6 +33,6 @@ function startGame() {
 ## Courses
 RSSchool JS / Front-end (In progress)
 ## languages
-English (B2)
-Polish (native)
-Russian (so so :-P)
+- English (B2)
+- Polish (native)
+- Russian (so so :-P)
