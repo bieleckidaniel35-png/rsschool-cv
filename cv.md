@@ -29,9 +29,10 @@ function startGame() {
         interval = setInterval(moveOutcomes, intervalTime);
     }
 ```
+## Education
+2004 - 2007 King Casimir the Great High School in Białystok
 ## Courses
 RSSchool JS / Front-end (In progress)
 ## languages
 - English (B2)
 - Polish (native)
-- Russian (so so :-P)
