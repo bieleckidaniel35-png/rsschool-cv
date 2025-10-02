@@ -1,1 +1,0 @@
-https://bieleckidaniel35-png.github.io/rsschool-cv/cv
